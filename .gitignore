@@ -1,0 +1,11 @@
+data/00_pdf_raw/
+data/01_pdf_txt/
+data/02_corpus_clean/
+data/03_thematic/pdfs/
+data/05_master/sample_texts/
+logs/
+outputs/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
