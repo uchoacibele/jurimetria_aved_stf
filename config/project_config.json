@@ -1,0 +1,35 @@
+{
+  "paths": {
+    "project_root": "~/Documents/jurimetria_aved_stf",
+    "config_dir": "~/Documents/jurimetria_aved_stf/config",
+    "data_dir": "~/Documents/jurimetria_aved_stf/data",
+    "logs_dir": "~/Documents/jurimetria_aved_stf/logs",
+    "notebooks_dir": "~/Documents/jurimetria_aved_stf/notebooks",
+    "pdf_raw_dir": "~/Documents/jurimetria_aved_stf/data/00_pdf_raw",
+    "pdf_txt_dir": "~/Documents/jurimetria_aved_stf/data/01_pdf_txt",
+    "corpus_clean_dir": "~/Documents/jurimetria_aved_stf/data/02_corpus_clean",
+    "thematic_dir": "~/Documents/jurimetria_aved_stf/data/03_thematic",
+    "ranked_dir": "~/Documents/jurimetria_aved_stf/data/04_ranked",
+    "master_dir": "~/Documents/jurimetria_aved_stf/data/05_master",
+    "outputs_dir": "~/Documents/jurimetria_aved_stf/outputs",
+    "figures_dir": "~/Documents/jurimetria_aved_stf/outputs/figures",
+    "tables_dir": "~/Documents/jurimetria_aved_stf/outputs/tables",
+    "reports_dir": "~/Documents/jurimetria_aved_stf/outputs/reports"
+  },
+  "thematic_filter": {
+    "group_a_patterns": [
+      "fake","fake_news","conteudo","conteudo_falso","desinform","misinform","desordem",
+      "narrativ","fraude","urna","tse","milicia","milicias","digital","telegram","whatsapp",
+      "convoc","caravana","financi","incentiv","incit","rede_social","redes_sociais","plataforma","perfil"
+    ],
+    "group_b_patterns": [
+      "8_de_janeiro","8_janeiro","08_janeiro","ato_antidemocrat","antidemocrat",
+      "invas","depred","destruic","vandalismo","acamp","qg","quartel",
+      "praca_dos_tres_poderes","palacio_do_planalto","stf","congresso","planalto","golpe"
+    ],
+    "window_tokens": 50,
+    "strong_a_hits": 3,
+    "strong_b_hits": 2,
+    "short_doc_tokens": 120
+  }
+}
