@@ -1,0 +1,33 @@
+# SO / editores
+.DS_Store
+.Rhistory
+.Rproj.user/
+*.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Anaconda / temporários
+anaconda_projects/
+*.db
+*.sqlite
+/tmp/
+local.txt
+*.save
+
+# Dados (mantém estrutura com .gitkeep)
+data/00_pdf_raw/*
+data/01_pdf_txt/*
+data/02_corpus_clean/*
+data/03_thematic/*
+data/04_ranked/*
+data/05_master/*
+!data/**/.gitkeep
+
+# Logs (exceto .gitkeep)
+logs/*
+!logs/.gitkeep
+
+# Outputs
+outputs/reports/*
+!outputs/figures/**
+!outputs/tables/**
