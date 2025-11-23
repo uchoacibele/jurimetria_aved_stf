@@ -1,6 +1,6 @@
 # jurimetria_aved_stf
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-6f42c1.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC BY-NC-NA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-6f42c1.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Análise empírica de decisões do Supremo Tribunal Federal (STF) sobre **desinformação** e os **atos de 8 de janeiro de 2023**, com foco em **transparência metodológica**, **reprodutibilidade** e **rigor quantitativo** aplicado à linguagem natural jurídica.
 
